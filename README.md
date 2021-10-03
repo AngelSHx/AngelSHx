@@ -6,7 +6,7 @@ I hope you enjoy and find some of the projects and code developments fun and int
 - 🌱 I’m currently learning different areas of Data Science, Machine Learning, and Python
 - 👯 I’m looking to collaborate on big data projects, python development projects, STEM Curriculum Development, and Web Development.
 - 💬 Ask me about my future ideas, my dreams, my current goals in the development world.
-- 📫 How to reach me: [Email:](<angelash303@gmail.com>) or check my website: [angelsantana.io](https://www.angelsantana.io/)
+- 📫 How to reach me: [Email Me](<angelash303@gmail.com>) or check my website: [angelsantana.io](https://www.angelsantana.io/)
 - ⚡ Fun fact: I love to travel! I have been able to go to 10 countries in Europe. Ask me about my travels.
 
 <!--

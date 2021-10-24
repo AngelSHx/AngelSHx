@@ -25,7 +25,7 @@ My name is [Angel Santana](https://www.angelsantana.io/) and I enjoy scripting a
 
 🎓 I’m currently working on my Master of Science in Business Analytics from [CU BOULDER](https://www.colorado.edu/business/).
 
-- Check out my current project: [EDA and PDA on Boston House Data](https://github.com/AngelSHx/AdvancedDataAnalytics#exploratory-data-analysis-and-predictive-analysis-using-r-boston-house-data)
+- Check out my current project: [EDA and PDA on Boston House Data](https://github.com/AngelSHx/AdvancedDataAnalytics/blob/main/EDA_Boston_House_Data.ipynb)
 <br/>
 
 🌱 I’m currently learning new skills in **Data Science**, **Machine Learning**, and **Big Data**.

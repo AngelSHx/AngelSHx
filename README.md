@@ -40,7 +40,7 @@ My name is [Angel Santana](https://www.angelsantana.io/) and I enjoy scripting a
 💬 Ask me about data related questions.
 - Need help in something data related, I am open to talk with you to reach a solution.
 
-
+<hr>
 
 ### 👨‍💻 Programming languages
 

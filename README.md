@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Angel Santana on LinkedIn" title="Follow Angel Santana on LinkedIn"/>](https://www.linkedin.com/in/angelsantanahernandez/)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Angel Santana on Twitter" title="Follow Angel Santana on Twitter"/>](https://twitter.com/angelsh_dev)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Angel Santana on Instagram" title="Follow Angel Santana on Instagram"/>](https://www.instagram.com/angelsh.exe/)
+
 
 My name is [Angel Santana](https://www.angelsantana.io/) and I enjoy scripting and developing in Python!
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="420" />
@@ -29,7 +29,6 @@ My name is [Angel Santana](https://www.angelsantana.io/) and I enjoy scripting a
 
 🎓 I’m currently working on my Master of Science in Business Analytics from [CU BOULDER](https://www.colorado.edu/business/).
 
-- Check out my current project: [Amazon Stock Price Prediction](https://github.com/AngelSHx/Data-Science-Portfolio/blob/main/Stock_Price_Prediction.ipynb)
 <br/>
 
 🌱 I’m currently learning new skills in **Data Science**, **Machine Learning**, and **Big Data**.

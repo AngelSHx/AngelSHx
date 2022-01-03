@@ -19,25 +19,25 @@ Here are some ideas to get you started:
 
 
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Angel Santana on LinkedIn" title="Follow Angel Santana on LinkedIn"/>](https://www.linkedin.com/in/angelsantanahernandez/)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Angel Santana on Twitter" title="Follow Angel Santana on Twitter"/>](https://twitter.com/angelsh_dev)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Angel Santana on Twitter" title="Follow Angel Santana on Twitter"/>](https://twitter.com/@iamAngelSantana)
 
 
-My name is [Angel Santana](https://www.angelsantana.io/) and I enjoy scripting and developing in Python!
+My name is [Angel Santana](https://www.angelsantana.io/) and I am a Data Science Enthusiast!
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="420" />
 
-💼 CO-Founder and Frontend Software Engineer [@PenguinDocketingSolutions](https://penguindocketing.webflow.io/)
+🎓 I’m currently working towards a Master of Science in Business Analytics from [CU BOULDER](https://www.colorado.edu/business/).
 
-🎓 I’m currently working on my Master of Science in Business Analytics from [CU BOULDER](https://www.colorado.edu/business/).
 
+🌱 I’m currently learning new skills in **Data Science**, **Machine Learning**, and **Cyber Security**.
 <br/>
 
-🌱 I’m currently learning new skills in **Data Science**, **Machine Learning**, and **Big Data**.
-<br/>
+
+💼 CO-Founder [@PenguinDocketingSolutions](https://penguindocketing.webflow.io/)
+
 
 📫 How to reach me: [Send me an email :)](mailto:angelash303@gmail.com)
 
 💬 Ask me about data related questions.
-- Need help in something data related, I am open to talk with you to reach a solution.
 
 <hr>
 

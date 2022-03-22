@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Angel Santana on LinkedIn" title="Follow Angel Santana on LinkedIn"/>](https://www.linkedin.com/in/angelsantanahernandez/)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Angel Santana on Twitter" title="Follow Angel Santana on Twitter"/>](https://twitter.com/@iamAngelSantana)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Angel Santana on Twitter" title="Follow Angel Santana on Twitter"/>](https://twitter.com/@iamAngelSH)
 
 
 My name is [Angel Santana](https://www.angelsantana.io/) and I am a Data Science Enthusiast!

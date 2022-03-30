@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Angel Santana](Angel.gif)
+<!-- ![Angel Santana](Angel.gif) -->
 
 
 # Hi Techies <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 My name is [Angel Santana](https://www.angelsantana.io/) and I am a Data Science Enthusiast!
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="420" />
+<!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="420" /> -->
 
 🎓 I’m currently working towards a Master of Science in Business Analytics from [CU BOULDER](https://www.colorado.edu/business/).
 

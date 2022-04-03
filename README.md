@@ -11,9 +11,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[Angel Santana](https://www.angelsantana.io/)
 -->
 <!-- ![Angel Santana](Angel.gif) -->
-
+<!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="420" /> -->
+<!-- 💼 CO-Founder [@PenguinDocketingSolutions](https://penguindocketing.webflow.io/) -->
 
 # Hi Techies <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
@@ -22,23 +24,23 @@ Here are some ideas to get you started:
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Angel Santana on Twitter" title="Follow Angel Santana on Twitter"/>](https://twitter.com/@iamAngelSH)
 
 
-My name is [Angel Santana](https://www.angelsantana.io/) and I am a Data Science Enthusiast!
-<!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="420" /> -->
+My name is **Angel** and I enjoy doing Data Science and Machine Learning projects.
 
-🎓 I’m currently working towards a Master of Science in Business Analytics from [CU BOULDER](https://www.colorado.edu/business/).
+I look forward to contributing to open source projects and creating Data Science/Machine Learning tutorials and content.
 
+A little about me: 
+- 🎓 Currently working towards my M.S in Business Analytics with a focus on Data Analytics and Security 
+    - Actively looking for roles in Data Science and Machine Learning.
+    - Would love to talk and work on projects together. 
+        - [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="20em" align="center" alt="Email Me" title="Email Me"/>](mailto:angelash303@gmail.com)
 
-🌱 I’m currently learning new skills in **Data Science**, **Machine Learning**, and **Cyber Security**.
+- B.S in Computer Science with a focus on 💼 Entrepreneurship and 📊 data.
+    - Ask me about how my team and I went from a senior project to creating a start-up. 
+    - Learn about [@PenguinDocketingSolutions](https://penguindocketing.webflow.io/) 
+
 <br/>
 
-
-<!-- 💼 CO-Founder [@PenguinDocketingSolutions](https://penguindocketing.webflow.io/) -->
-
-
-📫 How to reach me: [Send me an email :)](mailto:angelash303@gmail.com)
-
-💬 Ask me about data related questions.
-
+MORE COMING SOON!
 <hr>
 
 ### 👨‍💻 Programming languages

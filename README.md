@@ -32,7 +32,7 @@ My name is [Angel Santana](https://www.angelsantana.io/) and I am a Data Science
 <br/>
 
 
-💼 CO-Founder [@PenguinDocketingSolutions](https://penguindocketing.webflow.io/)
+<!-- 💼 CO-Founder [@PenguinDocketingSolutions](https://penguindocketing.webflow.io/) -->
 
 
 📫 How to reach me: [Send me an email :)](mailto:angelash303@gmail.com)

@@ -27,7 +27,7 @@ I look forward to contributing to open source projects and creating Data Science
 A little about me: 
 - 🎓 Currently working towards my M.S in Business Analytics with a focus on Data Analytics and Security 
     - Actively looking for roles in Data Science and Machine Learning.
-    - want to talk more about my projects, collaboration, etc., send me an email! 
+    - Want to talk more about my projects, collaboration, etc., send me an email! 
         - [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="15em" align="center" alt="Email Me" title="Email Me"/>](mailto:angelash303@gmail.com)
 
 - B.S in Computer Science with a focus on 💼 Entrepreneurship and 📊 data.

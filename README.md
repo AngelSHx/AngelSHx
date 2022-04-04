@@ -17,11 +17,7 @@ Here are some ideas to get you started:
 <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="420" /> -->
 <!-- 💼 CO-Founder [@PenguinDocketingSolutions](https://penguindocketing.webflow.io/) -->
 
-# Hi Techies <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Angel Santana on LinkedIn" title="Follow Angel Santana on LinkedIn"/>](https://www.linkedin.com/in/angelsantanahernandez/)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Angel Santana on Twitter" title="Follow Angel Santana on Twitter"/>](https://twitter.com/@iamAngelSH)
+# Welcome Techies <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> !!
 
 
 My name is **Angel** and I enjoy doing Data Science and Machine Learning projects.
@@ -31,58 +27,77 @@ I look forward to contributing to open source projects and creating Data Science
 A little about me: 
 - 🎓 Currently working towards my M.S in Business Analytics with a focus on Data Analytics and Security 
     - Actively looking for roles in Data Science and Machine Learning.
-    - Would love to talk and work on projects together. 
-        - [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="20em" align="center" alt="Email Me" title="Email Me"/>](mailto:angelash303@gmail.com)
+    - want to talk more about my projects, collaboration, etc., send me an email! 
+        - [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="15em" align="center" alt="Email Me" title="Email Me"/>](mailto:angelash303@gmail.com)
 
 - B.S in Computer Science with a focus on 💼 Entrepreneurship and 📊 data.
-    - Ask me about how my team and I went from a senior project to creating a start-up. 
-    - Learn about [@PenguinDocketingSolutions](https://penguindocketing.webflow.io/) 
+    - Ask me about how my team and I went from a capstone project to running a start-up for 4 months after graduation. 
+<!--     - Learn about [@PenguinDocketingSolutions](https://penguindocketing.webflow.io/)  -->
 
+#### Follow me:
+<p>
+<!--Twitter, LinkedIn, Hashnode, Kaggle -->
+    <a href="https://twitter.com/@iamAngelSH" target+"_blank" ><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="20em"></a> 
+    <a href="https://www.linkedin.com/in/angelsantanahernandez/" target+"_blank" ><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20em"></a> 
+    <a href="https://iamangelsh.hashnode.dev/" target+"_blank" ><img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" height="20em"></a> 
+    <a href="https://www.kaggle.com/iamangelsh" target+"_blank" ><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" height="20em"></a> 
+
+</p>
 <br/>
 
-MORE COMING SOON!
-<hr>
+## My Tech Stack
 
 ### 👨‍💻 Programming languages
 
 <p>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ar"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
-   <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-<!--   <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a> -->
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
+<!--Python, R, SQL, C++, HTML, CSS, JavaScript -->
+     <a href="https://www.python.org/" target+"_blank" ><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height="20em"></a>    
+    <a href="https://www.r-project.org/" target+"_blank" ><img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" height="20em"></a>
+    <a href="https://www.mysql.com/" target+"_blank" ><img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="20em"></a>
+    <a href="https://www.cplusplus.com/" target+"_blank" ><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="20em"></a>
+    <a href="https://www.w3schools.com/html/" target+"_blank" ><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="20em"></a>
+    <a href="https://www.tutorialrepublic.com/css-tutorial/" target+"_blank" ><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="20em"></a>
+    <a href="https://www.javascript.com/" target+"_blank" ><img alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="20em"></a>
+
 
 </p>
 
 ### 🧰 Frameworks and libraries
 
 <p>
-    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
-    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
-    <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?logo=Keras&logoColor=white"></a>
-    <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
+<!-- Pandas, Numpy, Streamlit, Tableau, Docker, Flask, JSON, Latex   -->
+    <a href="https://pandas.pydata.org/docs/getting_started/index.html" target+"_blank" ><img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" height="20em"></a>    
+    <a href="https://numpy.org/" target+"_blank" ><img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" height="20em"></a>
+    <a href="https://streamlit.io/" target+"_blank" ><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" height="20em"></a>
+    <a href="https://www.tableau.com/" target+"_blank" ><img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" height="20em"></a>
+    <a href="https://www.docker.com/" target+"_blank" ><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" height="20em"></a>
+    <a href="https://flask.palletsprojects.com/" target+"_blank" ><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="20em"></a>
+    <a href="https://www.json.org/" target+"_blank" ><img alt="Json" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" height="20em"></a>
+    
 </p>
 
 ### 🗄️ Databases and cloud hosting
 
 <p>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
-    <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
-    <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
+<!--MySQL, Github, SQLite, GCP, AWS      -->
+    <a href="https://www.mysql.com/" target+"_blank" ><img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="20em"></a>
+    <a href="https://github.com/" target+"_blank" ><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="20em"></a>
+    <a href="https://www.sqlite.org/" target+"_blank" ><img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" height="20em"></a>
+    <a href="https://cloud.google.com/" target+"_blank" ><img alt="GCP" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" height="20em"></a>
+    <a href="https://aws.amazon.com/" target+"_blank" ><img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="20em"></a>
+
 </p>
 
 ### 💻 Software and tools
 
 <p>
-  <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
+<!-- Jupyter Notebooks, Visual Studio, Git, Linux   -->
+    <a href="https://jupyter.org/" target+"_blank" ><img alt="JupyterNotebooks" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" height="20em"></a>
+    <a href="https://code.visualstudio.com/" target+"_blank" ><img alt="VisualStudio" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="20em"></a>
+    <a href="https://git-scm.com/" target+"_blank" ><img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="20em"></a>
+    <a href="https://www.linux.org/" target+"_blank" ><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="20em"></a>
+    <a href="https://www.kali.org/" target+"_blank" ><img alt="KaliLinux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" height="20em"></a>
+
 </p>
+
+[![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamAngelSH)](https://github.com/anuraghazra/github-readme-stats)

@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="420" /> -->
 <!-- 💼 CO-Founder [@PenguinDocketingSolutions](https://penguindocketing.webflow.io/) -->
 
-# Welcome Techies <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> !!
+# Welcome Techies <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
 
 My name is **Angel** and I enjoy doing Data Science and Machine Learning projects.

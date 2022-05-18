@@ -108,7 +108,10 @@ Here are some ideas to get you started:
 <br>
         
 <p align="center">
-    <a href="angelsantana.io" target+"_blank" ><img alt="Linux" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamAngelSH&theme=default" height="200em"></a>
+    <a href="angelsantana.io" target+"_blank" ><img alt="Angel's Summary" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamAngelSH&theme=default" height="200em"></a>
 <p>
-        
-[![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamAngelSH)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamAngelSH&repo=github-readme-stats" />
+</a>
+<!-- [![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamAngelSH)](https://github.com/anuraghazra/github-readme-stats) -->

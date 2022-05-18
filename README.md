@@ -112,6 +112,6 @@ Here are some ideas to get you started:
 <p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamAngelSH&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamAngelSH&repo=github-readme-stats" />
 </a>
 <!-- [![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamAngelSH)](https://github.com/anuraghazra/github-readme-stats) -->

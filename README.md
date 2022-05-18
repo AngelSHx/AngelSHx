@@ -111,7 +111,8 @@ Here are some ideas to get you started:
     <a href="angelsantana.io" target+"_blank" ><img alt="Angel's Summary" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamAngelSH&theme=default" height="200em"></a>
 <p>
 
+<p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamAngelSH&repo=github-readme-stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iamAngelSH&repo=github-readme-stats" height="200em"/>
 </a>
-<!-- [![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamAngelSH)](https://github.com/anuraghazra/github-readme-stats) -->
+</p>

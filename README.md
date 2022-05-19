@@ -107,11 +107,11 @@ Here are some ideas to get you started:
 
 <br>
         
-<p align="center">
+<!-- <p align="center">
     <a href="angelsantana.io" target+"_blank" >
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamAngelSH&theme=default" height="200em">
   </a>
-<p>
+<p> -->
 
 <p align="center">
   <a href="angelsantana.io">

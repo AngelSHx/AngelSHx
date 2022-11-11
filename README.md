@@ -17,25 +17,25 @@ Here are some ideas to get you started:
 <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="420" /> -->
 <!-- 💼 CO-Founder [@PenguinDocketingSolutions](https://penguindocketing.webflow.io/) -->
 
-<h2 align="center">
-  Welcome to Angel Santana's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Scientist;Data%20Engineer;Machine%20Learning;Code%20|%20Eat%20|%20Sleep%20|%20Dream&font=Fira%20Code&center=true&width=440&height=45&color=bf002a&vCenter=true&size=22"></a>
 </p>
+<h2 align="center">
+  Welcome to my Github Profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  My name is Angel Santana Hernandez!
+</h2>
 
 <br>
 
 <p align="center">
     <!--Twitter, LinkedIn, Hashnode, Kaggle -->
-    <a href="https://twitter.com/@iamAngelSH" target+"_blank" ><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="25em"></a> 
+<!--     <a href="https://twitter.com/@iamAngelSH" target+"_blank" ><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="25em"></a>  -->
     <a href="https://www.linkedin.com/in/angelsantanahernandez/" target+"_blank" ><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25em"></a> 
-    <a href="https://iamangelsh.hashnode.dev/" target+"_blank" ><img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" height="25em"></a> 
-    <a href="https://www.kaggle.com/iamangelsh" target+"_blank" ><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" height="25em"></a> 
-    <a href="mailto:angelash303@gmail.com" target+"_blank" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25em" alt="Email Me" title="Email Me"/></a>
-    <a href="https://www.upwork.com/freelancers/~01b11cb1149f57fb32?viewMode=1" target+"_blank" ><img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" height="25em" alt="Hire ME" title="Hire Me"/></a>
+<!--     <a href="https://iamangelsh.hashnode.dev/" target+"_blank" ><img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" height="25em"></a>  -->
+<!--     <a href="https://www.kaggle.com/iamangelsh" target+"_blank" ><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" height="25em"></a>  -->
+    <a href="mailto:intechangel@gmail.com" target+"_blank" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25em" alt="Email Me" title="Email Me"/></a>
+<!--     <a href="https://www.upwork.com/freelancers/~01b11cb1149f57fb32?viewMode=1" target+"_blank" ><img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" height="25em" alt="Hire ME" title="Hire Me"/></a> -->
     
 </p>
 
